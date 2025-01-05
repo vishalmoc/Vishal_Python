@@ -26,6 +26,6 @@ We can also use Double- Quoted-
 Three- inverted- commas
 """
 
-# Escape Sequence Character- For functions that normally cannot be used in strings
+# Escape Sequence Character- For functions that normally cannot be used in strings like /n /t /" /'
 
 print("This is for escape sequence\t \" We can use\" symbol too\n Escape Sequence")
