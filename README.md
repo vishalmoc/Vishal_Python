@@ -6,6 +6,7 @@ This repository provides simple examples of Python commands and concepts, making
 - Handling **user input** with the `input()` function.
 - Producing **multiple outputs** using `print()` and string formatting.
 - Writing and using **comments** effectively for better code readability.
+- Escape Sequence characters allow inclusion of special characters in strings
 
 ---
 
